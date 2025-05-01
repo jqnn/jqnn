@@ -3,7 +3,7 @@
 **A passionate 17-year-old developer from Germany** 🇩🇪
 
 - 🎮 **Developer** @ [AlyticDevelopment](https://github.com/AlyticDevelopment/)
-- 🌱 Currently learning **JS, TS & C++**
+- 🌱 Currently learning **TS & C++**
 - 📬 Get in touch:
   - Discord: *@jqnn.*
   - Email: *contact@alytic.de*
