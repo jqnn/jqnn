@@ -1,6 +1,6 @@
 # Hi, I'm Jan! 👋
 
-**A passionate 17-year-old developer from Germany** 🇩🇪
+**A passionate 18-year-old developer from Germany** 🇩🇪
 
 - 🎮 **Developer** @ [AlyticDevelopment](https://github.com/AlyticDevelopment/)
 - 🌱 Currently learning **TS & C++**
