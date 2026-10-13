@@ -1,13 +1,3 @@
-# Hi, I'm Jan! 👋
-
-**A passionate 19-year-old developer from Germany** 🇩🇪
-
-- 🎮 **Developer** @ [AlyticDevelopment](https://github.com/AlyticDevelopment/)
-- 🌱 Currently learning **TS & C++**
-- 📬 Get in touch:
-  - Discord: *@jqnn.*
-  - Email: *contact@alytic.de*
-
 ### 🛠️ Tools
 
 ![Tools](https://skillicons.dev/icons?i=idea,phpstorm,webstorm,git,cloudflare,docker,mongodb,mysql,nginx,discord)
